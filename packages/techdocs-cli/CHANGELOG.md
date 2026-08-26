@@ -1,5 +1,12 @@
 # @techdocs/cli
 
+## 1.11.4-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-defaults@0.17.8-next.0
+
 ## 1.11.4-next.0
 
 ### Patch Changes

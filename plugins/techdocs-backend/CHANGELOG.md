@@ -1,5 +1,12 @@
 # @backstage/plugin-techdocs-backend
 
+## 2.2.4-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-node@2.2.5-next.0
+
 ## 2.2.3
 
 ### Patch Changes

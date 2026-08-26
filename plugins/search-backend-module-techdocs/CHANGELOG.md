@@ -1,5 +1,12 @@
 # @backstage/plugin-search-backend-module-techdocs
 
+## 0.4.18-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-node@2.2.5-next.0
+
 ## 0.4.18-next.0
 
 ### Patch Changes

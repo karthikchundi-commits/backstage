@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog-backend-module-gcp
 
+## 0.3.23-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-node@2.2.5-next.0
+
 ## 0.3.23-next.0
 
 ### Patch Changes

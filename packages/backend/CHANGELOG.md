@@ -1,5 +1,28 @@
 # example-backend
 
+## 0.0.54-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-defaults@0.17.8-next.0
+  - @backstage/plugin-auth-backend@0.30.1-next.1
+  - @backstage/plugin-catalog-backend@3.9.1-next.0
+  - @backstage/plugin-kubernetes-backend@0.21.10-next.1
+  - @backstage/plugin-mcp-actions-backend@0.2.2-next.0
+  - @backstage/plugin-notifications-backend@0.6.9-next.0
+  - @backstage/plugin-scaffolder-backend@4.1.0-next.1
+  - @backstage/plugin-techdocs-backend@2.2.4-next.0
+  - @backstage/plugin-catalog-backend-module-ai-model@0.1.4-next.0
+  - @backstage/plugin-catalog-backend-module-logs@0.1.26-next.0
+  - @backstage/plugin-catalog-backend-module-openapi@0.2.26-next.0
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.2.24-next.1
+  - @backstage/plugin-catalog-backend-module-unprocessed@0.6.16-next.0
+  - @backstage/plugin-scaffolder-backend-module-github@0.9.13-next.1
+  - @backstage/plugin-search-backend-module-catalog@0.3.19-next.1
+  - @backstage/plugin-search-backend-module-techdocs@0.4.18-next.1
+  - @backstage/plugin-catalog-backend-module-backstage-openapi@0.5.18-next.0
+
 ## 0.0.54-next.0
 
 ### Patch Changes

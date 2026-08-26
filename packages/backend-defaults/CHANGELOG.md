@@ -1,5 +1,11 @@
 # @backstage/backend-defaults
 
+## 0.17.8-next.0
+
+### Patch Changes
+
+- e3b587c: Improve authentication reliability during signing key rotation by performing budgeted JWKS reloads when a newly published key is requested during the remote key set cooldown.
+
 ## 0.17.7
 
 ### Patch Changes
